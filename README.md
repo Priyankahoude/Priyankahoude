@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanka Houde
 - 👀 I’m interested exploring new things.
-- 🌱 I’m currently persuing Data Science Course
+- 🌱 I’m looking for an data scientist opportunity
 - 💞️ I’m looking for a intership opportunity to gain experience in Data Science
 - 📫 How to reach me ...email : priyankahoude@gmail.com
 
